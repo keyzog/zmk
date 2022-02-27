@@ -1,0 +1,12 @@
+file_format: "1"
+id: kapl
+name: Kapl
+type: shield
+url: https://github.com/keyzog/kapl
+requires: [pro_micro]
+features:
+  - keys
+  - underglow
+siblings:
+  - kapl_left
+  - kapl_right
